@@ -1,0 +1,22 @@
+1. hyper text transfer protocol is used for sending and receiving data from servers
+
+2. uniform resource locator, it is a unique address for resources on the internet.
+
+3. domain name system, it is the system used to convert URLs to IP addresses
+
+4. it is used to pass values for keys within a url
+
+5. Get is used to request data from a server
+post is used to send data to a server
+
+6. it is a request from a client to a server over the HTTP protocol
+
+7. a response to a client from a server over the HTTP protocol
+
+8. headers give more information about the request or response
+Request header examples are host and accept
+response header examples are content type and last modified
+
+9. the URL is converted to an IP by using DNS, the browser makes a request to the IP address,
+the server sends a response with the requested HTML, the browser creates the DOM for the HTML
+and then makes requests for and additional resources needed.
